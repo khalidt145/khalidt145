@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Java car rental system and a few small practice projects.  <br>🤝 I’m looking to collaborate on beginner-friendly Java or C projects.  <br>👐 I’m looking for help with improving clean code and project structure.  <br>🌱 I’m currently learning mobile development and advanced OOP concepts.  <br>💬 Ask me about Java basics, data structures, or simple debugging tips.  <br>⚡ Fun fact: I learn faster when I break things and fix them again.  <br>
+🔭 I’m currently working on a Java car rental system and a few small practice projects.  <br>🤝 I’m looking to collaborate on beginner-friendly Java or C projects.  <br>👐 I’m looking for help with improving clean code and project structure.  <br>🌱 I’m advanced OOP and JavaFx concepts  <br>💬 Ask me about Java basics, data structures, or simple debugging tips.  <br>⚡ Fun fact: I learn faster when I break things and fix them again.  <br>
 
 
 # 💻 Tech Stack:
